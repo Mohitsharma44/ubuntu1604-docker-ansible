@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/Mohitsharma44/ubuntu1604-docker-ansible.svg?branch=master)](https://travis-ci.org/Mohitsharma44/ubuntu1604-docker-ansible)
+
 Ubuntu 16.04 LTS (Xenial) Docker container for Ansible playbook and role testing.
 
 ## How to Build
